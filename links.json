@@ -95,5 +95,7 @@
   {"nome": "Craigslist", "url": "https://craigslist.org"},
   {"nome": "OfferUp", "url": "https://offerup.com"},
   {"nome": "Letgo", "url": "https://letgo.com"},
-  {"nome": "Facebook Marketplace", "url": "https://facebook.com/marketplace"}
+  {"nome": "Facebook Marketplace", "url": "https://facebook.com/marketplace"},
+  {"nome": "Jvzin", "url": "https://jvzin.com.br"},
+  {"nome": "Minecraft", "url": "https://bit.ly/minejv"}
 ]
