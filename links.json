@@ -1,101 +1,402 @@
 [
-  {"nome": "Google", "url": "https://google.com"},
-  {"nome": "GitHub", "url": "https://github.com"},
-  {"nome": "Microsoft", "url": "https://microsoft.com"},
-  {"nome": "Apple", "url": "https://apple.com"},
-  {"nome": "Amazon", "url": "https://amazon.com"},
-  {"nome": "Facebook", "url": "https://facebook.com"},
-  {"nome": "Twitter", "url": "https://twitter.com"},
-  {"nome": "LinkedIn", "url": "https://linkedin.com"},
-  {"nome": "Instagram", "url": "https://instagram.com"},
-  {"nome": "YouTube", "url": "https://youtube.com"},
-  {"nome": "Reddit", "url": "https://reddit.com"},
-  {"nome": "Pinterest", "url": "https://pinterest.com"},
-  {"nome": "Snapchat", "url": "https://snapchat.com"},
-  {"nome": "WhatsApp", "url": "https://whatsapp.com"},
-  {"nome": "Telegram", "url": "https://telegram.org"},
-  {"nome": "Discord", "url": "https://discord.com"},
-  {"nome": "Slack", "url": "https://slack.com"},
-  {"nome": "Zoom", "url": "https://zoom.us"},
-  {"nome": "Skype", "url": "https://skype.com"},
-  {"nome": "Viber", "url": "https://viber.com"},
-  {"nome": "WeChat", "url": "https://wechat.com"},
-  {"nome": "TikTok", "url": "https://tiktok.com"},
-  {"nome": "Spotify", "url": "https://spotify.com"},
-  {"nome": "Netflix", "url": "https://netflix.com"},
-  {"nome": "Hulu", "url": "https://hulu.com"},
-  {"nome": "Disney+", "url": "https://disneyplus.com"},
-  {"nome": "HBO Max", "url": "https://hbomax.com"},
-  {"nome": "Apple TV+", "url": "https://tv.apple.com"},
-  {"nome": "Amazon Prime Video", "url": "https://primevideo.com"},
-  {"nome": "YouTube TV", "url": "https://tv.youtube.com"},
-  {"nome": "Sling TV", "url": "https://sling.com"},
-  {"nome": "FuboTV", "url": "https://fubo.tv"},
-  {"nome": "Peacock", "url": "https://peacocktv.com"},
-  {"nome": "Paramount+", "url": "https://paramountplus.com"},
-  {"nome": "Discovery+", "url": "https://discoveryplus.com"},
-  {"nome": "ESPN+", "url": "https://espnplus.com"},
-  {"nome": "Tubi", "url": "https://tubi.tv"},
-  {"nome": "Pluto TV", "url": "https://pluto.tv"},
-  {"nome": "Crackle", "url": "https://crackle.com"},
-  {"nome": "IMDb TV", "url": "https://imdb.com/tv"},
-  {"nome": "Kanopy", "url": "https://kanopy.com"},
-  {"nome": "Hoopla", "url": "https://hoopladigital.com"},
-  {"nome": "BritBox", "url": "https://britbox.com"},
-  {"nome": "Acorn TV", "url": "https://acorn.tv"},
-  {"nome": "Shudder", "url": "https://shudder.com"},
-  {"nome": "Crunchyroll", "url": "https://crunchyroll.com"},
-  {"nome": "Funimation", "url": "https://funimation.com"},
-  {"nome": "VRV", "url": "https://vrv.co"},
-  {"nome": "Mubi", "url": "https://mubi.com"},
-  {"nome": "Criterion Channel", "url": "https://criterionchannel.com"},
-  {"nome": "Fandor", "url": "https://fandor.com"},
-  {"nome": "Kanopy Kids", "url": "https://kanopy.com/kids"},
-  {"nome": "PBS Kids", "url": "https://pbskids.org"},
-  {"nome": "Netflix Kids", "url": "https://netflix.com/kids"},
-  {"nome": "Disney Junior", "url": "https://disneyjunior.com"},
-  {"nome": "Nick Jr.", "url": "https://nickjr.com"},
-  {"nome": "Cartoon Network", "url": "https://cartoonnetwork.com"},
-  {"nome": "Boomerang", "url": "https://boomerang.com"},
-  {"nome": "Netflix Family", "url": "https://netflix.com/family"},
-  {"nome": "Amazon Kids+", "url": "https://amazon.com/kids"},
-  {"nome": "YouTube Kids", "url": "https://kids.youtube.com"},
-  {"nome": "HBO Kids", "url": "https://hbo.com/kids"},
-  {"nome": "Apple Arcade", "url": "https://apple.com/apple-arcade"},
-  {"nome": "Google Play Games", "url": "https://play.google.com/games"},
-  {"nome": "Xbox Game Pass", "url": "https://xbox.com/game-pass"},
-  {"nome": "PlayStation Now", "url": "https://playstation.com/now"},
-  {"nome": "Nintendo Switch Online", "url": "https://nintendo.com/switch/online-service"},
-  {"nome": "Steam", "url": "https://store.steampowered.com"},
-  {"nome": "Epic Games Store", "url": "https://epicgames.com/store"},
-  {"nome": "Origin", "url": "https://origin.com"},
-  {"nome": "Uplay", "url": "https://ubisoft.com/en-us/ubisoft-connect/uplay"},
-  {"nome": "Battle.net", "url": "https://battle.net"},
-  {"nome": "GOG", "url": "https://gog.com"},
-  {"nome": "itch.io", "url": "https://itch.io"},
-  {"nome": "Humble Bundle", "url": "https://humblebundle.com"},
-  {"nome": "Epic Games", "url": "https://epicgames.com"},
-  {"nome": "Twitch", "url": "https://twitch.tv"},
-  {"nome": "Mixer", "url": "https://mixer.com"},
-  {"nome": "Facebook Gaming", "url": "https://facebook.com/gaming"},
-  {"nome": "YouTube Gaming", "url": "https://gaming.youtube.com"},
-  {"nome": "Discord Game Store", "url": "https://discord.com/store"},
-  {"nome": "GameStop", "url": "https://gamestop.com"},
-  {"nome": "Best Buy", "url": "https://bestbuy.com"},
-  {"nome": "Target", "url": "https://target.com"},
-  {"nome": "Walmart", "url": "https://walmart.com"},
-  {"nome": "Amazon", "url": "https://amazon.com"},
-  {"nome": "Newegg", "url": "https://newegg.com"},
-  {"nome": "B&H Photo Video", "url": "https://bhphotovideo.com"},
-  {"nome": "Adorama", "url": "https://adorama.com"},
-  {"nome": "Fry's Electronics", "url": "https://frys.com"},
-  {"nome": "Micro Center", "url": "https://microcenter.com"},
-  {"nome": "TigerDirect", "url": "https://tigerdirect.com"},
-  {"nome": "eBay", "url": "https://ebay.com"},
-  {"nome": "Craigslist", "url": "https://craigslist.org"},
-  {"nome": "OfferUp", "url": "https://offerup.com"},
-  {"nome": "Letgo", "url": "https://letgo.com"},
-  {"nome": "Facebook Marketplace", "url": "https://facebook.com/marketplace"},
-  {"nome": "Jvzin", "url": "https://jvzin.com.br"},
-  {"nome": "Minecraft", "url": "https://bit.ly/minejv"}
+  {
+    "nome": "Google",
+    "url": "https://google.com"
+  },
+  {
+    "nome": "GitHub",
+    "url": "https://github.com"
+  },
+  {
+    "nome": "Microsoft",
+    "url": "https://microsoft.com"
+  },
+  {
+    "nome": "Apple",
+    "url": "https://apple.com"
+  },
+  {
+    "nome": "Amazon",
+    "url": "https://amazon.com"
+  },
+  {
+    "nome": "Facebook",
+    "url": "https://facebook.com"
+  },
+  {
+    "nome": "Twitter",
+    "url": "https://twitter.com"
+  },
+  {
+    "nome": "LinkedIn",
+    "url": "https://linkedin.com"
+  },
+  {
+    "nome": "Instagram",
+    "url": "https://instagram.com"
+  },
+  {
+    "nome": "YouTube",
+    "url": "https://youtube.com"
+  },
+  {
+    "nome": "Reddit",
+    "url": "https://reddit.com"
+  },
+  {
+    "nome": "Pinterest",
+    "url": "https://pinterest.com"
+  },
+  {
+    "nome": "Snapchat",
+    "url": "https://snapchat.com"
+  },
+  {
+    "nome": "WhatsApp",
+    "url": "https://whatsapp.com"
+  },
+  {
+    "nome": "Telegram",
+    "url": "https://telegram.org"
+  },
+  {
+    "nome": "Discord",
+    "url": "https://discord.com"
+  },
+  {
+    "nome": "Slack",
+    "url": "https://slack.com"
+  },
+  {
+    "nome": "Zoom",
+    "url": "https://zoom.us"
+  },
+  {
+    "nome": "Skype",
+    "url": "https://skype.com"
+  },
+  {
+    "nome": "Viber",
+    "url": "https://viber.com"
+  },
+  {
+    "nome": "WeChat",
+    "url": "https://wechat.com"
+  },
+  {
+    "nome": "TikTok",
+    "url": "https://tiktok.com"
+  },
+  {
+    "nome": "Spotify",
+    "url": "https://spotify.com"
+  },
+  {
+    "nome": "Netflix",
+    "url": "https://netflix.com"
+  },
+  {
+    "nome": "Hulu",
+    "url": "https://hulu.com"
+  },
+  {
+    "nome": "Disney+",
+    "url": "https://disneyplus.com"
+  },
+  {
+    "nome": "HBO Max",
+    "url": "https://hbomax.com"
+  },
+  {
+    "nome": "Apple TV+",
+    "url": "https://tv.apple.com"
+  },
+  {
+    "nome": "Amazon Prime Video",
+    "url": "https://primevideo.com"
+  },
+  {
+    "nome": "YouTube TV",
+    "url": "https://tv.youtube.com"
+  },
+  {
+    "nome": "Sling TV",
+    "url": "https://sling.com"
+  },
+  {
+    "nome": "FuboTV",
+    "url": "https://fubo.tv"
+  },
+  {
+    "nome": "Peacock",
+    "url": "https://peacocktv.com"
+  },
+  {
+    "nome": "Paramount+",
+    "url": "https://paramountplus.com"
+  },
+  {
+    "nome": "Discovery+",
+    "url": "https://discoveryplus.com"
+  },
+  {
+    "nome": "ESPN+",
+    "url": "https://espnplus.com"
+  },
+  {
+    "nome": "Tubi",
+    "url": "https://tubi.tv"
+  },
+  {
+    "nome": "Pluto TV",
+    "url": "https://pluto.tv"
+  },
+  {
+    "nome": "Crackle",
+    "url": "https://crackle.com"
+  },
+  {
+    "nome": "IMDb TV",
+    "url": "https://imdb.com/tv"
+  },
+  {
+    "nome": "Kanopy",
+    "url": "https://kanopy.com"
+  },
+  {
+    "nome": "Hoopla",
+    "url": "https://hoopladigital.com"
+  },
+  {
+    "nome": "BritBox",
+    "url": "https://britbox.com"
+  },
+  {
+    "nome": "Acorn TV",
+    "url": "https://acorn.tv"
+  },
+  {
+    "nome": "Shudder",
+    "url": "https://shudder.com"
+  },
+  {
+    "nome": "Crunchyroll",
+    "url": "https://crunchyroll.com"
+  },
+  {
+    "nome": "Funimation",
+    "url": "https://funimation.com"
+  },
+  {
+    "nome": "VRV",
+    "url": "https://vrv.co"
+  },
+  {
+    "nome": "Mubi",
+    "url": "https://mubi.com"
+  },
+  {
+    "nome": "Criterion Channel",
+    "url": "https://criterionchannel.com"
+  },
+  {
+    "nome": "Fandor",
+    "url": "https://fandor.com"
+  },
+  {
+    "nome": "Kanopy Kids",
+    "url": "https://kanopy.com/kids"
+  },
+  {
+    "nome": "PBS Kids",
+    "url": "https://pbskids.org"
+  },
+  {
+    "nome": "Netflix Kids",
+    "url": "https://netflix.com/kids"
+  },
+  {
+    "nome": "Disney Junior",
+    "url": "https://disneyjunior.com"
+  },
+  {
+    "nome": "Nick Jr.",
+    "url": "https://nickjr.com"
+  },
+  {
+    "nome": "Cartoon Network",
+    "url": "https://cartoonnetwork.com"
+  },
+  {
+    "nome": "Boomerang",
+    "url": "https://boomerang.com"
+  },
+  {
+    "nome": "Netflix Family",
+    "url": "https://netflix.com/family"
+  },
+  {
+    "nome": "Amazon Kids+",
+    "url": "https://amazon.com/kids"
+  },
+  {
+    "nome": "YouTube Kids",
+    "url": "https://kids.youtube.com"
+  },
+  {
+    "nome": "HBO Kids",
+    "url": "https://hbo.com/kids"
+  },
+  {
+    "nome": "Apple Arcade",
+    "url": "https://apple.com/apple-arcade"
+  },
+  {
+    "nome": "Google Play Games",
+    "url": "https://play.google.com/games"
+  },
+  {
+    "nome": "Xbox Game Pass",
+    "url": "https://xbox.com/game-pass"
+  },
+  {
+    "nome": "PlayStation Now",
+    "url": "https://playstation.com/now"
+  },
+  {
+    "nome": "Nintendo Switch Online",
+    "url": "https://nintendo.com/switch/online-service"
+  },
+  {
+    "nome": "Steam",
+    "url": "https://store.steampowered.com"
+  },
+  {
+    "nome": "Epic Games Store",
+    "url": "https://epicgames.com/store"
+  },
+  {
+    "nome": "Origin",
+    "url": "https://origin.com"
+  },
+  {
+    "nome": "Uplay",
+    "url": "https://ubisoft.com/en-us/ubisoft-connect/uplay"
+  },
+  {
+    "nome": "Battle.net",
+    "url": "https://battle.net"
+  },
+  {
+    "nome": "GOG",
+    "url": "https://gog.com"
+  },
+  {
+    "nome": "itch.io",
+    "url": "https://itch.io"
+  },
+  {
+    "nome": "Humble Bundle",
+    "url": "https://humblebundle.com"
+  },
+  {
+    "nome": "Epic Games",
+    "url": "https://epicgames.com"
+  },
+  {
+    "nome": "Twitch",
+    "url": "https://twitch.tv"
+  },
+  {
+    "nome": "Mixer",
+    "url": "https://mixer.com"
+  },
+  {
+    "nome": "Facebook Gaming",
+    "url": "https://facebook.com/gaming"
+  },
+  {
+    "nome": "YouTube Gaming",
+    "url": "https://gaming.youtube.com"
+  },
+  {
+    "nome": "Discord Game Store",
+    "url": "https://discord.com/store"
+  },
+  {
+    "nome": "GameStop",
+    "url": "https://gamestop.com"
+  },
+  {
+    "nome": "Best Buy",
+    "url": "https://bestbuy.com"
+  },
+  {
+    "nome": "Target",
+    "url": "https://target.com"
+  },
+  {
+    "nome": "Walmart",
+    "url": "https://walmart.com"
+  },
+  {
+    "nome": "Amazon",
+    "url": "https://amazon.com"
+  },
+  {
+    "nome": "Newegg",
+    "url": "https://newegg.com"
+  },
+  {
+    "nome": "B&H Photo Video",
+    "url": "https://bhphotovideo.com"
+  },
+  {
+    "nome": "Adorama",
+    "url": "https://adorama.com"
+  },
+  {
+    "nome": "Fry's Electronics",
+    "url": "https://frys.com"
+  },
+  {
+    "nome": "Micro Center",
+    "url": "https://microcenter.com"
+  },
+  {
+    "nome": "TigerDirect",
+    "url": "https://tigerdirect.com"
+  },
+  {
+    "nome": "eBay",
+    "url": "https://ebay.com"
+  },
+  {
+    "nome": "Craigslist",
+    "url": "https://craigslist.org"
+  },
+  {
+    "nome": "OfferUp",
+    "url": "https://offerup.com"
+  },
+  {
+    "nome": "Letgo",
+    "url": "https://letgo.com"
+  },
+  {
+    "nome": "Facebook Marketplace",
+    "url": "https://facebook.com/marketplace"
+  },
+  {
+    "nome": "Jvzin",
+    "url": "https://jvzin.com.br"
+  },
+  {
+    "nome": "Minecraft",
+    "url": "https://bit.ly/minejv"
+  },
+  {
+    "nome": "Teste ",
+    "url": "www.teste.com"
+  }
 ]
