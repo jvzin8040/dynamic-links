@@ -386,5 +386,9 @@
   {
     "nome": "Adguard",
     "url": "https://-----dns.adguard.com"
+  },
+  {
+    "nome": "Fatec",
+    "url": "https://vestibular.fatec.sp.gov.br"
   }
 ]
